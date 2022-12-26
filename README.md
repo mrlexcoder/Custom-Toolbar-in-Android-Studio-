@@ -2,23 +2,17 @@
 
 Create Simple Custom Toolbar in Android Studio with Java
 
-
 ## Documentation
 In Android applications, Toolbar is a kind of ViewGroup that can be placed in the XML layouts of an activity. It was introduced by the Google Android team during the release of Android Lollipop(API 21). The Toolbar is basically the advanced successor of the ActionBar. It is much more flexible and customizable in terms of appearance and functionality. 
 [Documentation](https://github.com/mrlexcoder/Custom-Toolbar-in-Android-Studio-/)
-
 
 ## 🛠 Skills
 Android Studio 
 Java
 
-
 ## Screenshots
 
-![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHIgzg1fTkVQB5dDKAG-d5RsYnTDD7tigN-ZtCyNhbXsuclwEp5LojwTrLSYer5pRR4p4-tW4PnkIOhizrCIpjMcQD9yFSCX3mL1wU4SU3aCCA1sh0EojsVTzza3d26se-TlZjMtWQpHUNQLaDwD8CkwWYDSyxoVMqFxIqkT2l--JDhBXmwpPWhH7FeQ/s2340/Custom-Toolbar-in-Android-Studio%203.jpg)
-
-![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig1y3JGEFdn4mCfIn853CnOEHIfm8qfZq7s1kqwe7YEhW4DhPACgXVFaleWIjqdd_aNnxo6QGDJ9BU7qviNASDtUVsXswebLyAkfdm_rqOr90FUa6cKngqGv4GqwSOfza-LT_6eam0oa2smlxl2IEhSMgzShGlkicifNcU_OhNDrOodGlHg367087T2g/s2340/Custom-Toolbar-in-Android-Studio%202.jpg)
-
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-VB9LQB0BB2Sc6dzKD7bw5fsBOA49huxRX1sFM4DIFgKAmi7hP1ynDRykWraGa8vgk_jsoXgHjO60vqINRZZDjYlQtsYb_VzckRA20PJ8XZbbq2Ia5jmftY7vf9K2dAqemgk3ZWkdIDbaPSUXhZlGOkRBd9TRGsOIjs7OsdwWZbkqYLclPm3eUShrSw/s1920/Screenshot%20(6).png)
 
 ## Support
 For support, email mrlexcoder@gmail.com or join our Slack channel.
